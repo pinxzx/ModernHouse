@@ -1,3 +1,9 @@
+
+-- Não recomendo este código para usarem no vosso jogo, escrevi este código apenas para ajudar-vos a compreender mais a Lógica de fazer um código(não digo que seja a melhor lógica/forma de o fazerem.).
+-- Basicamente este código iria abrir uma porta, com Efeitos Sonoros, e Troca de Luzes. O Module em si não vai executar este código, seria necessario usar um Script ou LocalScript e chamar a função door.Open()
+-- Qualquer coisa que achem que devia Adicionar/Remover/Trocar a este dirétorio mandem-me na DM pelo Discord: pinx#5289
+
+
 --[[
   Referências:
 
@@ -63,8 +69,5 @@ end
 
 return door
 
--- Não recomendo este código para usarem no vosso jogo, escrevi este código apenas para ajudar-vos a compreender mais a Lógica de fazer um código.
--- Basicamente este código iria abrir uma porta, com Efeitos Sonoros, e Troca de Luzes. O Module em si não vai executar este código, seria necessario usar um Script ou LocalScript e chamar a função door.Open()
--- Qual coisa que achem que devia adicionar a este dirétorio mandem-me na DM: pinx#5289
 
 
